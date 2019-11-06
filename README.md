@@ -25,7 +25,7 @@ about various `Song`s. Our data model looks like this:
   - has `content` attribute (`String`)
   - belongs to a `Song`
 
-## Instructions
+##a Instructions
 
 1. The base models, controllers, and seed data have been provided for you.
 2. You should create and migrate the database before starting to develop your
